@@ -1,4 +1,4 @@
-package com.tododododo.mytodo;
+package com.dododo.mytodo;
 
 import android.content.Intent;
 import android.os.Bundle;
