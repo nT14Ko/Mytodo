@@ -1,4 +1,4 @@
-package com.tododododo.mytodo;
+package com.dododo.mytodo;
 
 import android.view.LayoutInflater;
 import android.view.View;
